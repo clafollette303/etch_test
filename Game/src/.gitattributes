@@ -1,2 +1,0 @@
-UE4Game.wasm filter=lfs diff=lfs merge=lfs -text
-Tester.data filter=lfs diff=lfs merge=lfs -text
